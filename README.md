@@ -48,11 +48,12 @@ Currently:
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/langs.svg" alt="Alex Most Used Languages" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-20KD&theme=tokyonight" alt="Alex Streak" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-20KD&theme=tokyonight" alt="Alex Streak" />
+  <img src="./profile/langs.svg" alt="Alex Most Used Languages" height="200" />
 </p>
 
 ---
