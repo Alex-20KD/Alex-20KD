@@ -48,10 +48,8 @@ Currently:
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-20KD&layout=compact&hide_border=true&title_color=007acc&text_color=a9b1d6&bg_color=00000000&langs_count=8&cache_seconds=1800" alt="Alex Most Used Languages" height="200" />
+  <img src="./profile/langs.svg" alt="Alex Most Used Languages" height="200" />
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-20KD&theme=tokyonight" alt="Alex Streak" />
