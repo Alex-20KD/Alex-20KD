@@ -48,8 +48,7 @@ Currently:
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-20KD&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Alex Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-20KD&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" alt="Alex Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-20KD&layout=compact&hide_border=true&title_color=007acc&text_color=a9b1d6&bg_color=00000000&langs_count=8&cache_seconds=1800" alt="Alex Most Used Languages" height="200" />
 </p>
 
 <p align="center">
