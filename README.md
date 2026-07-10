@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alex-20KD 👋</h1>
+<h1 align="center">Hi there, I'm Gonzalo Delgado 👋</h1>
 
 <h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
